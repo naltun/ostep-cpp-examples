@@ -3,7 +3,7 @@
 ![Shields.io](https://img.shields.io/badge/developed%20on-Alpine%20Linux-purple.svg)
 
 These are my C++ implementations of code from the wonderful, free book,
-[Operating systems: Three Easy Steps](https://ostep.org).
+[Operating Systems: Three Easy Steps](http://ostep.org).
 
 The examples are originally written in C ([GitHub](https://github.com/remzi-arpacidusseau/ostep-code))
 and my implementations are purely for the joy of learning.
